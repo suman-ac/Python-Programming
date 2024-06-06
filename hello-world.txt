@@ -1,0 +1,1 @@
+This repository is all about Python Programming. We will learn from basics to advanced in python and finally, complete the course with a project.
